@@ -4,7 +4,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/elizarov/KotlinMultiplatformPlayground",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^11.7.5"
   },
   "dependencies": {
     "source-map-support": "^0.5.12"
